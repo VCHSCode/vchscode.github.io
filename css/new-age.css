@@ -297,6 +297,15 @@ footer {
     border-color: #fdcc52;
     background-color: #fdcc52; }
 
+.btn-outline-dark {
+  color: black;
+  border: 2px solid;
+  border-color: black; }
+  .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
+    color: white;
+    border-color: #fdcc52;
+    background-color: #fdcc52; }
+
 .btn {
   border-radius: 300px;
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
